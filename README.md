@@ -41,7 +41,7 @@ A lightweight WordPress theme modification to add an "Author Management" meta bo
 ## License
 MIT License - feel free to use and modify!
 
-
+## Screenshots
 
 ![image](https://github.com/user-attachments/assets/0a5ed06c-76f1-4599-bf7c-634b9cb633e3)
 
